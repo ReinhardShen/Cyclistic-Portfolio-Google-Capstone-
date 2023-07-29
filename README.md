@@ -1,7 +1,11 @@
-# Portfolio-1-Cyclistic
+# Cyclistic Portfolio Google Capstone
 Google Data Analytics Professional Certificate
 
 Cyclistic - Bike Sharing Project Portfolio
+
+![image](https://github.com/ReinhardShen/Cyclistic-Portfolio-Google-Capstone-/assets/139752072/d5d3ed13-a251-4079-a38c-9470670d80cf)
+
+![image](https://github.com/ReinhardShen/Cyclistic-Portfolio-Google-Capstone-/assets/139752072/5c2e2b1b-764e-4d2c-88e3-e9702d113b4b)
 
 Name: Reinhard Shanahan Simba
 
